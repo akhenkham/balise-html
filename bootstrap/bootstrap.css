@@ -1,0 +1,33 @@
+body { 
+
+    background-color: beige;
+}
+
+.container {
+ 
+    background-color: white;
+    
+}
+
+.col-md-6 { 
+
+   color: blue;
+
+
+}
+
+.col-md-4 {
+
+}
+
+.section {
+    
+     background-color: aliceblue;
+
+}
+
+/*.section.container {
+
+     background-color: aliceblue;
+}
+*/
